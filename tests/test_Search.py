@@ -38,3 +38,6 @@ def test_search_without_providing_any_product():
     assert driver.find_element(By.XPATH,"//input[@id='button-search']//following-sibling::p").text.__eq__(expected_text)
     time.sleep(2)
     driver.quit()
+
+
+# the problem here is there are duplicate text in the code .and this not the right way to do so.
