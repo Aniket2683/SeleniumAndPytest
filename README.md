@@ -1,6 +1,6 @@
 ﻿# SeleniumAndPytest
-To open the allure report :
-1.Open the Project in Explorer
-2.Then open it in cmd
-3.Type allure serve "./report"
-4.Press Enter
+To open the allure report :<br>
+1.Open the Project in Explorer<br>
+2.Then open it in cmd<br>
+3.Type allure serve "./report"<br>
+4.Press Enter<br>
